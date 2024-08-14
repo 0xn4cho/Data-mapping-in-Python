@@ -11,4 +11,4 @@ It is a simple exercise to practice the specialization in data engineering in py
 <h2> Programming language </h2>
 For this exercise I have used the Jupyter programming language, which offers a simpler way of executing the code by blocks. 
 
-<span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
+<span>https://github.com/0xn4cho/Data-mapping-in-Python/blob/main/Jupyter.jpg</span>
